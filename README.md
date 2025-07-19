@@ -1,0 +1,1 @@
+# coc-ancient-ruins-website-screenshots
